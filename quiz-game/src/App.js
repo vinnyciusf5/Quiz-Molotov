@@ -1,7 +1,7 @@
 // src/App.js
 import React from "react";
-import Quiz from "./components/Quiz"; // Certifique-se de que o caminho está correto
-import "./App.css"; // Para os estilos globais
+import Quiz from "./components/Quiz"; 
+import "./App.css"; 
 
 function App() {
   return (
